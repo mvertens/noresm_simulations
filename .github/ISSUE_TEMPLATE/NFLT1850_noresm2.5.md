@@ -1,12 +1,10 @@
 ---
-name: AMIP pre-industrial Noresm2.5 (NFLT1850)
+name: NorESM2.5 - AMIP pre-industrial (NFLT1850)
 about: Documenting information about a NorESM simulation.
 title: Enter casename (shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd)
 labels:
 - 'NFLT1850'
 - 'NorESM2.5'
-projects: NorESM Development
-milestones: NorESM2.5
 assignees: ''
 ---
 **Purpose:**
