@@ -5,6 +5,8 @@ title: Enter casename (shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd
 labels:
 - 'NFLT1850'
 - 'NorESM2.5'
+projects: NorESM Development
+milestones: NorESM2.5
 assignees: ''
 ---
 **Purpose:**
