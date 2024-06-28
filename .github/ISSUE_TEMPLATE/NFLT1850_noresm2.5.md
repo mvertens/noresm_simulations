@@ -28,7 +28,7 @@ https://github.com/NorESMhub/noresm_simulations/tree/$CASE
 ___
 **Code sandbox on github (either NorESMhub or user's fork):**
 - https://github.com/NorESMhub/noresm/tree/<code_version>
-- https://github.com/<github_username>/noresm/tree/<code_version>
+- https://github.com/username/noresm/tree/<code_version>
 ___
 **Diagnostics:**
 - Diags (if available):

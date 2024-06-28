@@ -26,10 +26,9 @@ ___
 - On github:
 https://github.com/NorESMhub/noresm_simulations/tree/$CASE
 ___
-**Code sandbox:**
-- Locally (if still available): `/projects/NS9560K/noresm3/$user/<code_version>`
-
+**Code sandbox on github (either NorESMhub or user's fork):**
 - On github: https://github.com/NorESMhub/noresm/tree/<code_version>
+- https://github.com/username/noresm/tree/<code_version>
 ___
 **Diagnostics:**
 - Diags (if available):
