@@ -6,7 +6,7 @@ about: Documenting information about a NorESM simulation. This contains informat
 convention: The case naming convention is shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd - where the code version for noresm2_5_alpha03 can be noresm25alpha03)
 title: Casename (enter the name of the run here)
 
-labels: 'NLT1850' '58Levels'
+labels: 'NLT1850'
 assignees: ''
 ---
 **Purpose:**
