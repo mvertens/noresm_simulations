@@ -1,40 +1,48 @@
 ---
-name: FLTHIST simulation (the tag/compset is FLTHIST, if you are using another tag/compset, please customize accordingly)
-about: Documenting information about a CAM simulation. This contains information about the location of the run directory, sandbox, etc 
-title: Casename (enter the name of the run here)
-labels: 'FLTHIST'
+name: AMIP pre-industrial Noresm2.5 (NFLT1850)
+about: Documenting information about a NorESM simulation.
+title: Enter casename (shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd)
+labels:
+- 'NFLT1850'
+- 'NorESM2.5'
 assignees: ''
 ---
 **Purpose:**
 
 ___
-
 **Description:**
+
+___
+**Compset long name**
+
+___
+**Model grid long name**
+
 ___
 **Case directory:**
-- Locally (if still available):
-`/glade/campaign/cesm/cesmdata/cseg/runs/cesm2_0/$CASE`
+- Locally on betzy (if still available):
+`/projects/NS9560K/noresm3/cases/$user/$CASE`
 
 - On github:
-https://github.com/NCAR/amwg_dev/tree/$CASE
+https://github.com/NorESMhub/noresm_simulations/tree/$CASE
 ___
-**Sandbox:**
-- Locally (if still available):
-/glade/work/hannay/cesm_tags/cam6_3_153
+**Code sandbox:**
+- Locally (if still available): `/projects/NS9560K/noresm3/$user/<code_version>`
 
-- On github:
-https://github.com/ESCOMP/CAM/tree/cam6_3_153
+- On github: https://github.com/NorESMhub/noresm/tree/<code_version>
 ___
 **Diagnostics:**
-- ADF diags (if available)
-[https://webext.cgd.ucar.edu/FLTHIST/$CASE/atm/](https://webext.cgd.ucar.edu/FLTHIST/$CASE/atm/)
+- Diags (if available):
+As examples:
+- https://ns2345k.web.sigma2.no/datalake/diagnostics/ADF/plots/<$CASE_vs_$BASELINE>/website/index.html
+- https://ns2345k.web.sigma2.no/datalake/diagnostics/ADF/plots/<$CASE_vs_$OBS>/website/index.html
+
 ___
 **Output:**
-- Raw output on derecho (if still available)
-`/glade/derecho/scratch/hannay/archive/$CASE/`
-- CAM Climos: `/glade/campaign/cgd/amp/amwg/climo/$CASE`
+- Raw output on nird (if still available):
+- CAM Climos:
 ___
 **Contacts:**
-@cecilehannay
+
 ___
 **Extra details:**
