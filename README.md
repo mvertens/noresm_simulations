@@ -21,4 +21,4 @@ Discussions relevant to NorESM development and preparation for CMIP7 could be po
 [Discussions](https://github.com/NorESMhub/noresm_simulations/discussions).
 
 - Discussions provide you with the ability to directly engage with other developers while staying on GitHub.
-- To ensure tha[Ot the conversation remains productive and helpful, please keep your discussions organized by using relevant titles, applying labels, and refraining from mixing topics.
+- To ensure that the conversation remains productive and helpful, please keep your discussions organized by using relevant titles, applying labels, and refraining from mixing topics.
