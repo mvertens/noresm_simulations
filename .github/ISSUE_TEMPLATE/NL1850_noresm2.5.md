@@ -4,7 +4,6 @@ about: Documenting information about a NorESM simulation.
 title: Enter casename (shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd)
 labels:
   - 'NLT1850'
-  - '58Levels'
   - 'Noresm2.5'
 assignees: ''
 ---
