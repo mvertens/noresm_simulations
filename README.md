@@ -13,3 +13,11 @@ The idea for this repository was stolen shamelessly from the [NCAR amwg_dev repo
 - Open an issue and fill out the template
   -- include a link to the branch in the issue (when pushed)
 - Create your case directory and using the script (TBD) push your case directory to the branch
+
+
+## Discussions Discussions relevant to NorESM development and
+preparation for CMIP7 could be posted under
+[Discussions](https://github.com/NorESMhub/noresm_simulations/discussions).
+
+- Discussions provide you with the ability to directly engage with other developers while staying on GitHub.
+- To ensure that the conversation remains productive and helpful, please keep your discussions organized by using relevant titles, applying labels, and refraining from mixing topics.
