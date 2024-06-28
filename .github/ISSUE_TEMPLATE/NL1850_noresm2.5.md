@@ -26,7 +26,7 @@ ___
 - On github:
 https://github.com/NorESMhub/noresm_simulations/tree/$CASE
 ___
-**Code sandbox on github (either NorESMhub or user's fork):**
+**Code version on github (either NorESMhub or user's fork):**
 - On github: https://github.com/NorESMhub/noresm/tree/<code_version>
 - https://github.com/username/noresm/tree/<code_version>
 ___
