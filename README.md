@@ -6,9 +6,9 @@ The idea for this repository was stolen shamelessly from the [NCAR amwg_dev repo
 
 ## To start a new development simulation, follow these steps:
 - Determine what branch your experiment case directory will live on, current supported branches are:
- -- noresm25_preindust_coupled
- -- noresm25_preindust_amip
-- Determine a case name for your run using the proposed nameing convention of
+  - noresm25_preindust_coupled
+  - noresm25_preindust_amip
+- Determine a case name for your run using the proposed naming convention of
     ``shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd``
 - Open an issue and fill out the template
   -- include a link to the branch in the issue (when pushed)
