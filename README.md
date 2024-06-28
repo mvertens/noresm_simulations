@@ -1,6 +1,6 @@
 # noresm_simulations
 
-The noresm_simulations repository is dedicated to tracking of NorESM experiments.
+The noresm_simulations repository is dedicated to the tracking and documentation of NorESM experiments.
 
 The idea for this repository was stolen shamelessly from the [NCAR amwg_dev repo](https://github.com/NCAR/amwg_dev).
 
