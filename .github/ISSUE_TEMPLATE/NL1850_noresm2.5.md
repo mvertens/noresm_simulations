@@ -1,11 +1,7 @@
 ---
 name: Fully coupled pre-industrial Noresm2.5 (NLT1850)
-about: |
-    Documenting information about a NorESM simulation.
-    casename convention is
-       shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd
-    where code version for noresm2_5_alpha03 can be noresm25alpha03
-title: Enter casename
+about: Documenting information about a NorESM simulation.
+title: Enter casename (shortcompsetname_codeversion_grid_somekindofinfo_yyyymmdd)
 labels:
   - 'NLT1850'
   - '58Levels'
