@@ -4,7 +4,7 @@ The noresm_simulations repository is dedicated to tracking of NorESM experiments
 
 The idea for this repository was stolen shamelessly from the [NCAR amwg_dev repo](https://github.com/NCAR/amwg_dev).
 
-## Development simulations: To start a new development case, follow these steps:
+## To start a new development simulation, follow these steps:
 - Determine what branch your experiment case directory will live on, current supported branches are:
  -- noresm25_preindust_coupled
  -- noresm25_preindust_amip
